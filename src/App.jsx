@@ -29,3 +29,4 @@ function App() {
 }
 
 export default App;
+// This code defines the main App component that imports and uses various other components to build a complete webpage. It includes a NavBar, Greeting, Banner with a promotional message, a Card showcasing a service, a Button for user interaction, a Testimonial from a satisfied customer, and a Footer. Each component is styled and structured to create an engaging user experience.
